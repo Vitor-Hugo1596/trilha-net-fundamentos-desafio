@@ -56,4 +56,4 @@ while (exibirMenu)
     Console.ReadLine();
 }
 
-Console.WriteLine("O programa se encerrou");
+Console.WriteLine("Obrigado por confiar na Luxury-Cars. Volte Sempre!");
